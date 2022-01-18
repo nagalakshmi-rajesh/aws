@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "bucket1" {
-  bucket = "my-s3-test-bucket"
+resource "aws_s3_bucket" "bucket-raj" {
+  bucket = "srav-s3-bucket"
   acl    = "private"
 }
