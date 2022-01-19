@@ -3,9 +3,9 @@ variable "instance_type" {
 }
 variable "ami_id" {
         description = "The AMI to use"
-        default = "ami-066333d9c572b0680"
+        default = "ami-0f18e475ccdc50e07"
 }
 variable "name" {
         description = "Name of the instance to be created"
-        default = "test"
+        default = "test1"
 }
