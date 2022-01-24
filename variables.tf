@@ -11,5 +11,5 @@ variable "name" {
 }
 variable "count" {
         description="count of the instances"
-        default=count+1
+        default=1
 }
