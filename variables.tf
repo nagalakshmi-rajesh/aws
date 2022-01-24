@@ -9,7 +9,4 @@ variable "name" {
         description = "Name of the instance to be created"
         default = "test"
 }
-variable "count" {
-        description="count of the instances"
-        default=1
-}
+
